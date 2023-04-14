@@ -1,0 +1,6 @@
+How many planets are in the solar system? (8, 9, 10) answer: 8
+What is the capital of France? (Berlin, London, Paris) answer: Paris
+What is the largest planet in our solar system? (Jupiter, Saturn, Venus) answer: Jupiter
+What is the currency of Japan? (Dollar, Euro, Yen) answer: Yen
+What is the tallest mammal? (Elephant, Giraffe, Whale) answer: Giraffe
+What is the currency of Mexico? (Dollar, Euro, Peso) answer: Peso
